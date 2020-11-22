@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Web-Design-Challenge
 
-You can use the [editor on GitHub](https://github.com/Mquinton28/Web-Design-Challenge/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my submission for Assignment 11, web design.
 
 ### Weather Data
 
