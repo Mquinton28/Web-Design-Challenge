@@ -1,9 +1,7 @@
-/* Body */
 body{
     background-color: #EDEDED; 
   }
-  
- /* Navbar */
+
 .navbar{
   max-height:80px; 
 }
@@ -39,7 +37,7 @@ a{
 .navbar-brand:hover{
 color: rgb(175, 175, 175) !important;
 }
-  /* Images */
+
   img{
     width:100% !important;
     height:100% !important; 
@@ -71,6 +69,13 @@ color: rgb(175, 175, 175) !important;
   /* h5 Element */
   h5{
     text-align: center;
+  }
+
+  /* h1 Element */
+  h1{
+    text-align: left;
+    padding: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
   }
   
   /* Box Class */
