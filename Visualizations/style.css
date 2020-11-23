@@ -86,6 +86,13 @@ color: rgb(175, 175, 175) !important;
     font-size: 25px;
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
+
+  h3{
+    text-align: left;
+    padding: 12px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
   
   /* Box Class */
   .box {
