@@ -74,7 +74,16 @@ color: rgb(175, 175, 175) !important;
   /* h1 Element */
   h1{
     text-align: left;
-    padding: 30px;
+    padding: 12px;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  /* h2 Element */
+  h2{
+    text-align: left;
+    padding: 12px;
+    font-size: 25px;
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
   
