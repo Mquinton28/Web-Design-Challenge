@@ -44,7 +44,9 @@ color: rgb(175, 175, 175) !important;
   p{
   color: #000000;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 17px; 
+  font-size: 17px;
+  padding-bottom: 10px;
+  padding-top: 10px; 
   }
   /* h5 Element */
   h5{
@@ -55,7 +57,7 @@ color: rgb(175, 175, 175) !important;
   /* h1 Element */
   h1{
     text-align: left;
-    padding: 12px;
+    padding: 10px;
     font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
@@ -63,14 +65,14 @@ color: rgb(175, 175, 175) !important;
   /* h2 Element */
   h2{
     text-align: left;
-    padding: 12px;
+    padding: 10px;
     font-size: 25px;
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
 
   h3{
     text-align: left;
-    padding: 12px;
+    padding: 10px;
     font-size: 25px;
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
