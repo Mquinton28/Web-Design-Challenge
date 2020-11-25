@@ -46,10 +46,10 @@ color: rgb(175, 175, 175) !important;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 17px; 
   }
-  
   /* h5 Element */
   h5{
     text-align: center;
+    padding: 12px;
   }
 
   /* h1 Element */
@@ -79,7 +79,7 @@ color: rgb(175, 175, 175) !important;
   .box {
     margin-top: 60px; 
     margin-bottom: 62px; 
-    padding: 10px 20px 15px; 
+    padding: 15px; 
     color:black;
     background-color: white; 
   
